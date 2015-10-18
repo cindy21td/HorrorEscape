@@ -1,24 +1,17 @@
 fileFormatVersion: 2
-guid: b1ea11df6533b4bfbabd30af7fe746f7
-labels:
-- Rusty
-- Kitchen
-- Furniture
-- Africa
+guid: 6385f8f25b43f5d4cb273222e7a3c727
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
     2300000: //RootNode
-    2800000: __AssetImporterPreview
     3300000: //RootNode
-    4300000: UtilitySink
-    6400000: //RootNode
+    4300000: pCube7
     11100000: //RootNode
   materials:
     importMaterials: 1
-    materialName: 3
+    materialName: 0
     materialSearch: 1
   animations:
     legacyGenerateAnimations: 4
@@ -39,9 +32,9 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .0109999999
+    globalScale: .0799999982
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -55,9 +48,9 @@ ModelImporter:
     secondaryUVPackMargin: 4
     useFileScale: 0
   tangentSpace:
-    normalSmoothAngle: 60
-    splitTangentsAcrossUV: 0
-    normalImportMode: 0
+    normalSmoothAngle: 40
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0
@@ -72,11 +65,9 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 1
-  humanoidOversampling: 1
-  additionalBone: 0
+  animationType: 0
+  additionalBone: 1
   userData: 
   assetBundleName: 
   assetBundleVariant: 
