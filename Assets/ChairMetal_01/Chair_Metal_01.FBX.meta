@@ -8,8 +8,21 @@ labels:
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: Chair_Feet
+    100002: Chair_Metal
+    100004: //RootNode
+    400000: Chair_Feet
+    400002: Chair_Metal
+    400004: //RootNode
+    2300000: Chair_Feet
+    2300002: Chair_Metal
+    3300000: Chair_Feet
+    3300002: Chair_Metal
     4300000: Chair_Metal
     4300002: Chair_Feet
+    6400000: Chair_Feet
+    6400002: Chair_Metal
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3
