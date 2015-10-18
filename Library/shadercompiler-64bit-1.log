@@ -1397,3 +1397,5 @@ Cmd: compileSnippet
   api=0 type=0 insize=3868 outsize=2208 kw=POINT pd= ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=3868 outsize=6 kw=POINT pd= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=7139 outsize=3940 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
