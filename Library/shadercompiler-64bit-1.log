@@ -1,5 +1,5 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-12652
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5352
 Cmd: getPlatforms
 Cmd: preprocess
   insize=8687 outsize=2135 ok=1
@@ -150,32 +150,10 @@ Cmd: preprocess
 Cmd: preprocess
   insize=5240 outsize=920 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=6976 outsize=4053 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=4 type=0 insize=982 outsize=4703 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=6976 outsize=1810 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=4 type=1 insize=982 outsize=11471 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=7666 outsize=4353 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_ON VERTEXLIGHT_ON pd= ok=1
+  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=3734 outsize=2753 kw=SPOT pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3734 outsize=2623 kw=SPOT pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=6976 outsize=5117 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=797 outsize=1639 kw=SHADOWS_CUBE pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=797 outsize=1111 kw=SHADOWS_CUBE pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=3734 outsize=2753 kw=POINT pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=3734 outsize=2127 kw=POINT pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=6976 outsize=3037 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_ON VERTEXLIGHT_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=6976 outsize=3297 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=6976 outsize=3037 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=6976 outsize=3086 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=6976 outsize=5734 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_ON pd= ok=1
+  api=4 type=1 insize=938 outsize=6319 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP _NORMALMAP pd= ok=1
